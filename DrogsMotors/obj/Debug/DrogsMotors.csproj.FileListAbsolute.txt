@@ -1,0 +1,67 @@
+c:\users\user\documents\visual studio 2015\Projects\DrogsMotors\DrogsMotors\bin\Debug\DrogsMotors.exe.config
+c:\users\user\documents\visual studio 2015\Projects\DrogsMotors\DrogsMotors\obj\Debug\DrogsMotors.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\DrogsMotors\DrogsMotors\obj\Debug\DrogsMotors.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\DrogsMotors\DrogsMotors\obj\Debug\DrogsMotors.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\DrogsMotors\DrogsMotors\obj\Debug\DrogsMotors.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\DrogsMotors\DrogsMotors\bin\Debug\DrogsMotors.exe
+c:\users\user\documents\visual studio 2015\Projects\DrogsMotors\DrogsMotors\bin\Debug\DrogsMotors.pdb
+c:\users\user\documents\visual studio 2015\Projects\DrogsMotors\DrogsMotors\obj\Debug\DrogsMotors.Main.resources
+c:\users\user\documents\visual studio 2015\Projects\DrogsMotors\DrogsMotors\obj\Debug\DrogsMotors.exe
+c:\users\user\documents\visual studio 2015\Projects\DrogsMotors\DrogsMotors\obj\Debug\DrogsMotors.pdb
+c:\users\user\documents\visual studio 2015\Projects\DrogsMotors\DrogsMotors\obj\Debug\DrogsMotors.Reg.resources
+c:\users\user\documents\visual studio 2015\Projects\DrogsMotors\DrogsMotors\obj\Debug\DrogsMotors.Client.resources
+c:\users\user\documents\visual studio 2015\Projects\DrogsMotors\DrogsMotors\obj\Debug\DrogsMotors.AddCars.resources
+c:\users\user\documents\visual studio 2015\Projects\DrogsMotors\DrogsMotors\obj\Debug\DrogsMotors.AddModel.resources
+c:\users\user\documents\visual studio 2015\Projects\DrogsMotors\DrogsMotors\obj\Debug\DrogsMotors.AddContract.resources
+c:\users\user\documents\visual studio 2015\Projects\DrogsMotors\DrogsMotors\obj\Debug\DrogsMotors.AllContracts.resources
+C:\Users\User\Desktop\бд дрог (1)\DrogsMotors\DrogsMotors\bin\Debug\DrogsMotors.exe.config
+C:\Users\User\Desktop\бд дрог (1)\DrogsMotors\DrogsMotors\obj\Debug\DrogsMotors.exe
+C:\Users\User\Desktop\бд дрог (1)\DrogsMotors\DrogsMotors\obj\Debug\DrogsMotors.pdb
+C:\Users\User\Desktop\бд дрог (1)\DrogsMotors\DrogsMotors\bin\Debug\DrogsMotors.exe
+C:\Users\User\Desktop\бд дрог (1)\DrogsMotors\DrogsMotors\bin\Debug\DrogsMotors.pdb
+C:\Users\User\Desktop\бд дрог (1)\DrogsMotors\DrogsMotors\obj\Debug\DrogsMotors.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\бд дрог (1)\DrogsMotors\DrogsMotors\obj\Debug\DrogsMotors.AddCars.resources
+C:\Users\User\Desktop\бд дрог (1)\DrogsMotors\DrogsMotors\obj\Debug\DrogsMotors.AddContract.resources
+C:\Users\User\Desktop\бд дрог (1)\DrogsMotors\DrogsMotors\obj\Debug\DrogsMotors.AddModel.resources
+C:\Users\User\Desktop\бд дрог (1)\DrogsMotors\DrogsMotors\obj\Debug\DrogsMotors.AllContracts.resources
+C:\Users\User\Desktop\бд дрог (1)\DrogsMotors\DrogsMotors\obj\Debug\DrogsMotors.Client.resources
+C:\Users\User\Desktop\бд дрог (1)\DrogsMotors\DrogsMotors\obj\Debug\DrogsMotors.Form1.resources
+C:\Users\User\Desktop\бд дрог (1)\DrogsMotors\DrogsMotors\obj\Debug\DrogsMotors.Main.resources
+C:\Users\User\Desktop\бд дрог (1)\DrogsMotors\DrogsMotors\obj\Debug\DrogsMotors.Properties.Resources.resources
+C:\Users\User\Desktop\бд дрог (1)\DrogsMotors\DrogsMotors\obj\Debug\DrogsMotors.Reg.resources
+C:\Users\User\Desktop\бд дрог (1)\DrogsMotors\DrogsMotors\obj\Debug\DrogsMotors.csproj.GenerateResource.Cache
+C:\Users\Владимир\Desktop\bd_drog_1\бд дрог (1)\DrogsMotors\DrogsMotors\bin\Debug\DrogsMotors.exe.config
+C:\Users\Владимир\Desktop\bd_drog_1\бд дрог (1)\DrogsMotors\DrogsMotors\obj\Debug\DrogsMotors.exe
+C:\Users\Владимир\Desktop\bd_drog_1\бд дрог (1)\DrogsMotors\DrogsMotors\obj\Debug\DrogsMotors.pdb
+C:\Users\Владимир\Desktop\DrogsMotors\DrogsMotors\bin\Debug\DrogsMotors.exe.config
+C:\Users\Владимир\Desktop\DrogsMotors\DrogsMotors\obj\Debug\DrogsMotors.exe
+C:\Users\Владимир\Desktop\DrogsMotors\DrogsMotors\obj\Debug\DrogsMotors.pdb
+C:\Users\Владимир\Desktop\DrogsMotors\DrogsMotors\bin\Debug\DrogsMotors.exe
+C:\Users\Владимир\Desktop\DrogsMotors\DrogsMotors\bin\Debug\DrogsMotors.pdb
+C:\Users\Владимир\Desktop\DrogsMotors\DrogsMotors\obj\Debug\DrogsMotors.csprojResolveAssemblyReference.cache
+C:\Users\Владимир\Desktop\DrogsMotors\DrogsMotors\obj\Debug\DrogsMotors.AddCars.resources
+C:\Users\Владимир\Desktop\DrogsMotors\DrogsMotors\obj\Debug\DrogsMotors.AddContract.resources
+C:\Users\Владимир\Desktop\DrogsMotors\DrogsMotors\obj\Debug\DrogsMotors.AddModel.resources
+C:\Users\Владимир\Desktop\DrogsMotors\DrogsMotors\obj\Debug\DrogsMotors.AllContracts.resources
+C:\Users\Владимир\Desktop\DrogsMotors\DrogsMotors\obj\Debug\DrogsMotors.Client.resources
+C:\Users\Владимир\Desktop\DrogsMotors\DrogsMotors\obj\Debug\DrogsMotors.Login.resources
+C:\Users\Владимир\Desktop\DrogsMotors\DrogsMotors\obj\Debug\DrogsMotors.Main.resources
+C:\Users\Владимир\Desktop\DrogsMotors\DrogsMotors\obj\Debug\DrogsMotors.Properties.Resources.resources
+C:\Users\Владимир\Desktop\DrogsMotors\DrogsMotors\obj\Debug\DrogsMotors.Reg.resources
+C:\Users\Владимир\Desktop\DrogsMotors\DrogsMotors\obj\Debug\DrogsMotors.csproj.GenerateResource.Cache
+C:\Users\Владимир\Desktop\БД\drogsmotors\DrogsMotors\bin\Debug\DrogsMotors.exe.config
+C:\Users\Владимир\Desktop\БД\drogsmotors\DrogsMotors\obj\Debug\DrogsMotors.exe
+C:\Users\Владимир\Desktop\БД\drogsmotors\DrogsMotors\obj\Debug\DrogsMotors.pdb
+C:\Users\Владимир\Desktop\БД\drogsmotors\DrogsMotors\bin\Debug\DrogsMotors.exe
+C:\Users\Владимир\Desktop\БД\drogsmotors\DrogsMotors\bin\Debug\DrogsMotors.pdb
+C:\Users\Владимир\Desktop\БД\drogsmotors\DrogsMotors\obj\Debug\DrogsMotors.csprojResolveAssemblyReference.cache
+C:\Users\Владимир\Desktop\БД\drogsmotors\DrogsMotors\obj\Debug\DrogsMotors.AddCars.resources
+C:\Users\Владимир\Desktop\БД\drogsmotors\DrogsMotors\obj\Debug\DrogsMotors.AddContract.resources
+C:\Users\Владимир\Desktop\БД\drogsmotors\DrogsMotors\obj\Debug\DrogsMotors.AddModel.resources
+C:\Users\Владимир\Desktop\БД\drogsmotors\DrogsMotors\obj\Debug\DrogsMotors.AllContracts.resources
+C:\Users\Владимир\Desktop\БД\drogsmotors\DrogsMotors\obj\Debug\DrogsMotors.Client.resources
+C:\Users\Владимир\Desktop\БД\drogsmotors\DrogsMotors\obj\Debug\DrogsMotors.Login.resources
+C:\Users\Владимир\Desktop\БД\drogsmotors\DrogsMotors\obj\Debug\DrogsMotors.Main.resources
+C:\Users\Владимир\Desktop\БД\drogsmotors\DrogsMotors\obj\Debug\DrogsMotors.Properties.Resources.resources
+C:\Users\Владимир\Desktop\БД\drogsmotors\DrogsMotors\obj\Debug\DrogsMotors.Reg.resources
+C:\Users\Владимир\Desktop\БД\drogsmotors\DrogsMotors\obj\Debug\DrogsMotors.csproj.GenerateResource.Cache
